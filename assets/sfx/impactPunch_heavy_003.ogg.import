@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/impactPunch_heavy_003.ogg-12bc9a432cfe0a98ae3d93529f194540.oggstr"
+
+[deps]
+
+source_file="res://assets/sfx/impactPunch_heavy_003.ogg"
+dest_files=[ "res://.import/impactPunch_heavy_003.ogg-12bc9a432cfe0a98ae3d93529f194540.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

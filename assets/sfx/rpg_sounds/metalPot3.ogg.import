@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/metalPot3.ogg-53030edea9ccd8106d126e7e54147d32.oggstr"
+
+[deps]
+
+source_file="res://assets/sfx/rpg_sounds/metalPot3.ogg"
+dest_files=[ "res://.import/metalPot3.ogg-53030edea9ccd8106d126e7e54147d32.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
